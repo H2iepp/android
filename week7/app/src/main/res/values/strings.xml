@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AndroidW7</string>
+    <string name="name">Tên</string>
+    <string name="phone">Sdt:</string>
+    <string name="phone_number">phone_number</string>
+    <string name="gmail">Gmail:</string>
+    <string name="Gmail">gmail</string>
+    <string name="t">T</string>
+    <string name="title">Title</string>
+    <string name="send_sms">Gửi tin nhắn</string>
+    <string name="send_email">Gửi email</string>
+    <string name="call">Gọi</string>
+</resources>
